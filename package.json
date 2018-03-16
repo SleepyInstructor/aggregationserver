@@ -24,7 +24,6 @@
     "concurrently": "^3.5.1",
     "express": "^4.16.2",
     "jasmine-core": "~2.4.1",
-    "jasmine-node": "^3.1.0",
     "tslint": "^3.15.1"
   },
   "bugs": {
@@ -32,8 +31,6 @@
   },
   "homepage": "https://github.com/SleepyInstructor/aggregationserver#readme",
   "devDependencies": {
-    "gulp": "^1.0.0",
-    "gulp-typescript": "^4.0.1",
     "jasmine": "^3.1.0",
     "typescript": "^2.7.2"
   }
